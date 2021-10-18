@@ -1,0 +1,5 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_delivery_date_finder,access_delivery_date_finder,model_delivery_date_finder,base.group_user,1,1,1,1
+access_estimated_delivery,access_estimated_delivery,model_estimated_delivery,base.group_user,1,1,1,1
+access_schedule_summary,access_schedule_summary,model_schedule_summary,base.group_user,1,1,1,1
+access_schedule_summary_line,access_schedule_summary_line,model_schedule_summary_line,base.group_user,1,1,1,1
